@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+
+# SQLite database
+db.sqlite3
+
+# Media uploads
+media/
+
+# Static files collected
+staticfiles/
+
+# Django secret keys (if you create one later)
+*.env
+.env.*
+
+# VSCode / IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
